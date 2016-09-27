@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="hasLabels=true" label="Test Table" max_length="40" name="x_74170_testingnew_test_table" type="collection">
-        <element display="true" label="Name" mandatory="true" max_length="255" name="name" reference="alm_asset" type="string_full_utf8"/>
+        <element label="Name" mandatory="true" max_length="255" name="name" reference="alm_asset" type="string_full_utf8"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element display="true" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="List" mandatory="true" max_length="1024" name="u_glide_list_1" reference="cmdb_hardware_product_model" type="glide_list"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
     </element>
 </database>

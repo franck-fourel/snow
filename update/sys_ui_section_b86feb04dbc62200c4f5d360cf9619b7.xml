@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="b86feb04dbc62200c4f5d360cf9619b7" sys_domain="global" table="x_74170_testingnew_test_table" version="3" view="Mobile">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-20 15:07:11</sys_created_on>
+            <sys_id>68d055e8db022200c4f5d360cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74170_testingnew_test_table" sys_domain="global" view="1fc62433db312200c4f5d360cf9619a4">b86feb04dbc62200c4f5d360cf9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-20 15:07:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-20 15:07:11</sys_created_on>
+            <sys_id>e8d055e8db022200c4f5d360cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74170_testingnew_test_table" sys_domain="global" view="1fc62433db312200c4f5d360cf9619a4">b86feb04dbc62200c4f5d360cf9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-20 15:07:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_list_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-20 15:07:11</sys_created_on>
+            <sys_id>6cd055e8db022200c4f5d360cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74170_testingnew_test_table" sys_domain="global" view="1fc62433db312200c4f5d360cf9619a4">b86feb04dbc62200c4f5d360cf9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-20 15:07:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-20 15:07:11</sys_created_on>
+            <sys_id>ecd055e8db022200c4f5d360cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74170_testingnew_test_table" sys_domain="global" view="1fc62433db312200c4f5d360cf9619a4">b86feb04dbc62200c4f5d360cf9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-20 15:07:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-20 15:07:11</sys_created_on>
+            <sys_id>60d055e8db022200c4f5d360cf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74170_testingnew_test_table" sys_domain="global" view="1fc62433db312200c4f5d360cf9619a4">b86feb04dbc62200c4f5d360cf9619b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-20 15:07:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_74170_testingnew_test_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-19 13:23:01</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b86feb04dbc62200c4f5d360cf9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74170_testingnew_test_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TestingNewApp" source="x_74170_testingnew">9b583644db862200c4f5d360cf96199a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TestingNewApp">9b583644db862200c4f5d360cf96199a</sys_scope>
+            <sys_update_name>sys_ui_section_b86feb04dbc62200c4f5d360cf9619b7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-19 13:23:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Mobile" name="Mobile">1fc62433db312200c4f5d360cf9619a4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

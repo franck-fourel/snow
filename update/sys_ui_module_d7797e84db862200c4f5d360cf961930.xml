@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Test Table">df797e84db862200c4f5d360cf96192f</application>
+        <application display_value="Franck Test">df797e84db862200c4f5d360cf96192f</application>
         <filter/>
         <name>Test Tables</name>
         <order/>
