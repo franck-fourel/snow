@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Chicago Catalog">7e95769fdb026200c4f5d360cf96191b</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-29 11:31:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e6d5f217db026200c4f5d360cf96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chicago Catalog.catalog_chicago_catalog</sys_name>
+        <sys_package display_value="TestingNewApp" source="x_74170_testingnew">9b583644db862200c4f5d360cf96199a</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_chicago_catalog">a2d5f217db026200c4f5d360cf96198c</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TestingNewApp">9b583644db862200c4f5d360cf96199a</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_e6d5f217db026200c4f5d360cf96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-29 11:31:54</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
