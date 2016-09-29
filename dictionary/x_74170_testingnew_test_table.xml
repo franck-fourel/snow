@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="hasLabels=true" label="Test Table" max_length="40" name="x_74170_testingnew_test_table" type="collection">
+        <element default="0" label="budget" max_length="40" name="budget" type="currency"/>
         <element label="Name" mandatory="true" max_length="255" name="name" reference="alm_asset" type="string_full_utf8"/>
         <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
