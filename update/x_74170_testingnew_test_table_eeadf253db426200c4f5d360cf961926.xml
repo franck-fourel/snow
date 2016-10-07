@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_74170_testingnew_test_table">
+    <x_74170_testingnew_test_table action="INSERT_OR_UPDATE">
+        <budget>10</budget>
+        <name>test1000</name>
+        <number>HP0001008</number>
+        <start_date/>
+        <sys_class_name>x_74170_testingnew_test_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-29 12:06:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>eeadf253db426200c4f5d360cf961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0a826bf03710200044e0bfc8bcbe5d7a</sys_name>
+        <sys_package display_value="TestingNewApp" source="x_74170_testingnew">9b583644db862200c4f5d360cf96199a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TestingNewApp">9b583644db862200c4f5d360cf96199a</sys_scope>
+        <sys_update_name>x_74170_testingnew_test_table_eeadf253db426200c4f5d360cf961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-29 12:06:27</sys_updated_on>
+        <u_glide_list_1>46c1ebdea9fe198100edf12334e3acb0</u_glide_list_1>
+        <user display_value="Adela Cervantsz">0a826bf03710200044e0bfc8bcbe5d7a</user>
+    </x_74170_testingnew_test_table>
+</record_update>
