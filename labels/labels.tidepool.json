@@ -1,0 +1,122 @@
+[
+    {
+        "name": "duplicate",
+        "color": "ededed",
+        "aliases": []
+    },
+    {
+        "name": "greenkeeper",
+        "color": "ededed",
+        "aliases": []
+    },
+    {
+        "name": "starter",
+        "color": "ffc0cb",
+        "aliases": []
+    },
+    {
+        "name": "Priority: Critical",
+        "color": "ee0701",
+        "aliases": []
+    },
+    {
+        "name": "Priority: High",
+        "color": "d93f0b",
+        "aliases": []
+    },
+    {
+        "name": "Priority: Low",
+        "color": "0e8a16",
+        "aliases": []
+    },
+    {
+        "name": "Priority: Medium",
+        "color": "fbca04",
+        "aliases": []
+    },
+    {
+        "name": "Status: Abandoned",
+        "color": "000000",
+        "aliases": []
+    },
+    {
+        "name": "Status: Available",
+        "color": "c2e0c6",
+        "aliases": []
+    },
+    {
+        "name": "Status: Blocked",
+        "color": "ee0701",
+        "aliases": []
+    },
+    {
+        "name": "Status: Work In Progress",
+        "color": "cccccc",
+        "aliases": ["WIP", "wip"]
+    },
+    {
+        "name": "Status: On Hold",
+        "color": "e99695",
+        "aliases": []
+    },
+    {
+        "name": "Status: Proposal",
+        "color": "d4c5f9",
+        "aliases": []
+    },
+    {
+        "name": "Status: Review Needed",
+        "color": "fbca04",
+        "aliases": []
+    },
+    {
+        "name": "Type: Bug",
+        "color": "ee0701",
+        "aliases": ["bug"]
+    },
+    {
+        "name": "Type: Documentation",
+        "color": "5319e7",
+        "aliases": []
+    },
+    {
+        "name": "Type: Enhancement",
+        "color": "1d76db",
+        "aliases": ["enhancement"]
+    },
+    {
+        "name": "Type: Maintenance",
+        "color": "fbca04",
+        "aliases": []
+    },
+    {
+        "name": "Type: Question",
+        "color": "cc317c",
+        "aliases": []
+    },
+    {
+        "name": "Tidepool: PR Submitted",
+        "color": "ffe6cc",
+        "aliases": []
+    },
+    {
+        "name": "Tidepool: Waiting PR Review",
+        "color": "ffd9b3",
+        "aliases": []
+    },
+    {
+        "name": "Tidepool: Accepted",
+        "color": "ff9933",
+        "aliases": []
+    },
+    {
+        "name": "Tidepool: Rejected",
+        "color": "ffbf80",
+        "aliases": []
+    },
+    {
+        "name": "Tidepool: Preparation",
+        "color": "ffb366",
+        "aliases": ["Tidepool"]
+    }
+]
